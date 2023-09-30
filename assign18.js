@@ -1,0 +1,13 @@
+"use strict";
+let visitplaces = ["Lahore", "Islamabad", "Birmingham", "Malta", "Toronto"];
+console.log(visitplaces);
+let sortedplaces = visitplaces.sort();
+console.log(sortedplaces);
+let reverseplaces = visitplaces.reverse();
+console.log(reverseplaces);
+let reverseagain = visitplaces.reverse();
+console.log(reverseagain);
+let sortedagain = visitplaces.sort();
+console.log(sortedagain);
+let sortedreverse = visitplaces.sort().reverse();
+console.log(sortedreverse);
